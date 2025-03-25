@@ -1,2 +1,0 @@
-*.py linguist-language=Python
-scripts/*.sh linguist-language=Python
